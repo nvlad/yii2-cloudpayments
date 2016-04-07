@@ -1,0 +1,21 @@
+{
+    "name": "nvlad/yii2-cloudpayments",
+    "description": "Widget",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","cloudpayments"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "NVlad",
+            "email": "wildvampir@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "nvlad\\cloudpayments\\": ""
+        }
+    }
+}
